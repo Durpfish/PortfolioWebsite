@@ -1,0 +1,17 @@
+{
+  "name": "calvin-portfolio",
+  "version": "1.0.0",
+  "description": "Calvin Ng's Portfolio Website",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step needed'",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

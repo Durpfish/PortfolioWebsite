@@ -4,7 +4,6 @@
   "description": "Calvin Ng's Portfolio Website",
   "scripts": {
     "dev": "vercel dev",
-    "build": "echo 'No build step needed'",
     "deploy": "vercel --prod"
   },
   "dependencies": {
